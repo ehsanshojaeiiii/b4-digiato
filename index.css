@@ -6,8 +6,23 @@
    font-family: "my-font";
 }
 .top-logo{
-   width: 50%;
+   width: 150px;
    height: 25%;
    background-color: black;
    padding: 15px;
+}
+.custom-card-img-1{
+   background-image: url('/asset/images/up-right-image.jpg');
+}
+.custom-card-img-2{
+   background-image: url('/asset/images/up-right-image.jpg');
+}
+.custom-card-img-3{
+   background-image: url('/asset/images/up-right-image.jpg');
+}
+.custom-card-img-4{
+   background-image: url('/asset/images/up-right-image.jpg');
+}
+.custom-card-img-5{
+   background-image: url('/asset/images/up-right-image.jpg');
 }
