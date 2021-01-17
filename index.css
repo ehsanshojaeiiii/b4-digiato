@@ -1,0 +1,13 @@
+@font-face {
+   font-family: "my-font";
+   src: url("asset/font/IRANSansWeb_Light.woff2") format("truetype");
+}
+*{
+   font-family: "my-font";
+}
+.top-logo{
+   width: 50%;
+   height: 25%;
+   background-color: black;
+   padding: 15px;
+}
